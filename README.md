@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://github.com/felipmarques/felipmarques/raw/main/assets/header-github.gif" alt="Texto alternativo da imagem">
+        <img src="https://github.com/felipmarques/felipmarques/raw/main/assets/ezgif.com-video-to-gif.gif" alt="Texto alternativo da imagem">
   </p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-marques2002/)
@@ -8,6 +8,8 @@
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na Universidade
 Municipal de São Caetano do Sul
+
+👨🏿‍💻 Analista de Dados em formação
 
 🧑🏿‍💼Em busca de um estágio
 
@@ -26,4 +28,4 @@ Municipal de São Caetano do Sul
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipmarques&layout=compact&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipmarques&show_icons=true&theme=dark)
 
 # "A persistência é um hábito dos vencedores"
-
+ 
