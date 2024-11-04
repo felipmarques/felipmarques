@@ -11,7 +11,6 @@ Municipal de São Caetano do Sul
 
 👨🏿‍💻 Analista de Dados em formação
 
-🧑🏿‍💼Em busca de um estágio
 
 ## Tecnologias que uso no meu dia a dia
 
